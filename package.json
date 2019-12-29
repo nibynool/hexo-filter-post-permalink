@@ -1,9 +1,10 @@
 {
-	"name": "hexo-filter-post-permalink",
-	"version": "0.1.0",
-	"main": "index.js",
+	"name": "@nibynool/hexo-filter-post-permalink",
 	"description": "A plugin for the Hexo static site generator to add allow overriding a post's permalink",
 	"keywords": ["hexo", "tag", "plugin"],
 	"homepage": "https://software.alphageek.com.au/hexo/filter-post-permalink",
+	"version": "0.1.0",
+	"main": "index.js",
 	"author": "Michael Lambert (https://alphageek.com.au)",
+	"license": "MIT"
 }
